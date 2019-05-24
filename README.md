@@ -1,5 +1,5 @@
 # bryk-green-theme
-Tema baseado no Breeze Tumbleweed
+Tema baseado no Breeze Tumbleweed.
 _____
 # Como instalar
 _____
