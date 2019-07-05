@@ -1,5 +1,5 @@
 # bryk-green-theme
-Descrição: Tema baseado no Breeze Tumbleweed na cor verde, borda e botões de janelas Feren Theme, o painel superior fica da cor branca.
+Descrição: Tema baseado no Breeze Tumbleweed na cor verde, borda e botões de janelas CubLinux, da cor branca Theme, o painel superior também fica da cor branca.
 _____
 # Como instalar
 Ao baixar o arquivo .zip, extrair a pasta bryk-green-theme-master para sua /home. Dentro dessa pasta tem o arquivo Bryk Green.zip, extrair a pasta Bryk Green para /home/.themes. Se não houver a pasta .themes, é preciso criar uma.
